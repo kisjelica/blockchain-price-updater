@@ -1,0 +1,16 @@
+contract\PriceUpdater.class
+app\App.class
+service\PriceService.class
+service\UpdatePriceTask.class
+dto\PriceChangeDTO.class
+contract\PriceUpdater$1.class
+contract\PriceUpdater$PriceUpdatedEventResponse.class
+contract\PriceUpdater$2.class
+http\PriceHttpHandler.class
+http\Response.class
+contract\PriceUpdater$3.class
+contract\PriceUpdater$4.class
+service\PriceService$1.class
+service\PublisherService.class
+dto\CurrentPriceDTO.class
+config\Configuration.class
