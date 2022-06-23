@@ -7,6 +7,7 @@ Run ```java -jar backend-1.0-SNAPSHOT.jar``` in backend/target folder, or run th
 Functionalities:
 1) To get the price history for a currency, use the endpoint /price-history. Request body needs to contain argument "symbol" (BTC or ETH) and two timestamps, "from" and "to".
 2) To get the current price for a currency, use the endpoint /current-price. Request body needs to contain argument "symbol" (BTC or ETH).
+3) Event publishing functionality is in backend/src/main/java/service/PublisherService.java.
 
 A **Postman collection** is included in the repository so you can use that for testing.
 
